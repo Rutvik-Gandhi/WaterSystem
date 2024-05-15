@@ -14,7 +14,7 @@ Welcome to WaterSystem, a powerful MERN stack web application that revolutionize
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/Qamar2315/Waterzilla`
+1. Clone the repository: `git clone https://github.com/Rutvik-Gandhi/WaterSystem.git`
 2. Navigate to the project directory: `cd WaterSystem`
 3. Install the required dependencies: `npm install`
 
